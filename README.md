@@ -16,3 +16,8 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
+## Description
+The purpose of this project is to create a new social media website where users can share their thoughts. This project utilizes mongoDB, Express.js and Mongoose. 
+
+## Links
+Github: https://github.com/TimAspesberro/Social-Network-API
